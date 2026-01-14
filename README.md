@@ -36,6 +36,24 @@ A Gantt chart was created to **visualize the project timeline**, track dependenc
 
 ---
 
+## 💰 Cost Management & Earned Value Analysis
+
+Effective project cost tracking and performance measurement were implemented using **Excel-based tools and used formulas**:
+
+- **Cost Estimation**:  
+  Detailed cost estimates were prepared using Excel to track budgets across project activities, resources, and timelines. This ensured accurate forecasting and proper allocation of funds.  
+
+<img width="641" height="269" alt="image" src="https://github.com/user-attachments/assets/44b458ae-f97e-436b-aaee-f4eff88fc7ea" />
+
+- **Earned Value Chart**:  
+  An **Earned Value Management (EVM)** chart was created to monitor project performance and progress against planned costs and schedule.  
+  This allowed the team to:  
+  - Track **budget variance (BV)** and **schedule variance (SV)**  
+  - Measure **cost performance index (CPI)** and **schedule performance index (SPI)**  
+  - Make data-driven decisions to keep the project on track  
+
+<img width="475" height="276" alt="image" src="https://github.com/user-attachments/assets/f093f201-3b39-4bf9-98e5-df4bcd4c4b58" />
+
 ## 🏃 Sprint Planning & Retrospective
 
 Agile practices were implemented through **sprints**, including:
